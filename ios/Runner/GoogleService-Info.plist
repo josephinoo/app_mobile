@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518183249670-k6hb9r3iq297b9747kbcak225jvek0dn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518183249670-k6hb9r3iq297b9747kbcak225jvek0dn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>518183249670-hv8lidf2lfb7ium93j43lgdsjo5po7br.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDykx8or1dW1bD2l_aqh5P3EEpMrDYykiw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518183249670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.amamantapp</string>
+	<key>PROJECT_ID</key>
+	<string>amamantapp-72641</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amamantapp-72641.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518183249670:ios:b54192c7e7c1aea6f8a087</string>
+</dict>
+</plist>
